@@ -1,0 +1,5 @@
+debug: false
+# Configuration for PolarPots
+PotSpeed: 0.1
+PermissionMSG: '&cYou do not have permission to use this command.'
+FillAmount: 36

@@ -1,0 +1,9 @@
+name: PolarPots
+main: com.polarpots.polarpots.PolarPotsPlugin
+version: 1.0-SNAPSHOT
+api-version: '1.20'
+commands:
+  polarpots:
+    description: Main PolarPots command
+    usage: /<command>
+    aliases: [pp]
